@@ -298,7 +298,7 @@ while True:
     # Draw everything
     pygame.draw.rect(screen, (255, 0, 0), paddle1)
     pygame.draw.rect(screen, (0, 0, 255), paddle2)
-    pygame.draw.ellipse(screen, (20, 200, 20), ball)
+    pygame.draw.ellipse(screen, (0, 255, 0), ball)
     pygame.draw.aaline(screen, (200, 200, 200), (WIDTH // 2, 0), (WIDTH // 2, HEIGHT))
 
     # Draw the score surfaces onto the screen.
