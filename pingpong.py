@@ -160,7 +160,7 @@ paddle1 = pygame.Rect(0, HEIGHT // 2, PADDLE_WIDTH, PADDLE_HEIGHT)
 paddle2 = pygame.Rect(WIDTH - PADDLE_WIDTH, HEIGHT // 2, PADDLE_WIDTH, PADDLE_HEIGHT)
 
 # Define the ball speed and the paddle speed
-ball_speed = 5
+ball_speed = 10
 paddle_speed = 2
 
 # Define the direction of the ball (in terms of dx and dy)
