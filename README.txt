@@ -17,4 +17,3 @@ RUN IN TERMINAL USING THE FOLLOWING COMMAND:
 5. press esc key to go back to main menu to pause 
 6. press reset score to retry
 7. To quit app, close window.
-NOTE: Player 2 may use middle finger for manimum effect and player 1 may pretend they are using the force to move the paddle.
