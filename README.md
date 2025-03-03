@@ -2,7 +2,7 @@
 
 A Python-based interactive ping pong game where players control paddles using hand gestures via webcam. Built with OpenCV, Mediapipe, and Pygame.
 
-![Gameplay Demo](demo.gif) *Replace with actual demo GIF if available*
+
 
 ## Requirements
 
